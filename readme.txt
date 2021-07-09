@@ -1,4 +1,3 @@
-Git is a version control system.
 Git is free software.
-
-write by L
+Git is a distributed version control system.
+write by y
