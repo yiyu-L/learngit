@@ -10,3 +10,4 @@ Creating a new branch 'featurel' is quick and simple.
 write by y
 >>>>>>> featurel
 Creating a new branch is quick and simple.
+study merge.
