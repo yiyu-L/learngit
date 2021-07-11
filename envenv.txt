@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 envenv new on learngit not clonegit
+=======
+envenv
+>>>>>>> dd8a39aa662dea9b111c3e2f9a880bae55d38cbe
