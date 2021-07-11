@@ -11,3 +11,4 @@ write by y
 >>>>>>> featurel
 Creating a new branch is quick and simple.
 study merge.
+bug. bug. bug.
